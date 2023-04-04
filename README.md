@@ -5,9 +5,9 @@
 - 🌱  SQLD, ADSP, AWS certification
 
 </br>
-
+<!-- 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diagram298)](https://github.com/diagram298/github-readme-stats)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diagram298)](https://github.com/diagram298/github-readme-stats)|
-|---|---|
+|---|---| -->
 
 
 
